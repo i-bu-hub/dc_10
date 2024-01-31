@@ -1,0 +1,46 @@
+header {
+    display: flex;
+    width: 100%;
+    height: 100px;
+    background-color: #11a0bd;
+    align-items: center;
+  }
+
+  h1 {
+    color: #fff;
+    align-items: center;
+  }
+  h2{
+    color: #000;
+
+  }
+
+  body{
+    background-color: #fff;
+  }
+
+  button {
+    padding: 10px 20px;
+    margin: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    border: #000;
+    border-radius: 20px;
+    background-color: #fff;
+    color: #000;
+    text-align: right;
+  }
+  button:hover {
+    background-color: #000;
+  }
+  p{
+    color: #000;
+    font-size: 20px;
+  }
+  iframe {
+    width: 80%;
+    height: 80vh;
+    border: none;
+    align-items: center;
+    justify-content: center;
+}
